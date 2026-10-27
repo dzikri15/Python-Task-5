@@ -1,0 +1,7 @@
+Sistem informasi adalah bidang yang mempelajari sistem dan teknologi informasi.
+Mahasiswa sistem informasi belajar pemrograman, basis data, dan analisis sistem.
+Pemrograman Python adalah salah satu mata kuliah di program studi sistem informasi.
+Dalam pemrograman Python, mahasiswa belajar struktur data seperti list, tuple, set, dan dictionary.
+Struktur data membantu mahasiswa mengolah data dengan efisien dan sistematis.
+Data yang terstruktur membuat sistem informasi menjadi lebih cepat dan akurat.
+Oleh karena itu, mahasiswa sistem informasi harus memahami struktur data dengan baik.
