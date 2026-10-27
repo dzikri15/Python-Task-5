@@ -48,6 +48,9 @@ Tidak ada dependensi eksternal — cukup Python 3.8+.
 
 ## Hasil Eksekusi
 
+Screenshot di bawah ini adalah hasil eksekusi program yang sesungguhnya. Output
+terminal yang sama juga tersimpan sebagai teks di folder `outputs/`.
+
 ### Praktik 1 — Analisis Kalimat
 
 Input: `Belajar Python itu menyenangkan dan sangat bermanfaat`
@@ -85,6 +88,12 @@ Input: `85, 92, 78, 65, 90, 45, 88, 72, 95, 55`
 ├── praktik5_frekuensi.py
 ├── data/
 │   └── contoh_teks.txt
+├── outputs/
+│   ├── praktik1.txt
+│   ├── praktik2.txt
+│   ├── praktik3.txt
+│   ├── praktik4.txt
+│   └── praktik5.txt
 └── screenshots/
     ├── hasil_praktik1.png
     ├── hasil_praktik2.png
