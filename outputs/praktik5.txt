@@ -1,0 +1,68 @@
+File: data/contoh_teks.txt
+Total kata: 78
+Jumlah kata unik: 46
+
+(a) Frekuensi setiap kata:
+  - adalah: 2
+  - akurat: 1
+  - analisis: 1
+  - baik: 1
+  - basis: 1
+  - belajar: 2
+  - bidang: 1
+  - cepat: 1
+  - dalam: 1
+  - dan: 5
+  - data: 6
+  - dengan: 2
+  - di: 1
+  - dictionary: 1
+  - efisien: 1
+  - harus: 1
+  - informasi: 6
+  - itu: 1
+  - karena: 1
+  - kuliah: 1
+  - lebih: 1
+  - list: 1
+  - mahasiswa: 4
+  - mata: 1
+  - memahami: 1
+  - membantu: 1
+  - membuat: 1
+  - mempelajari: 1
+  - mengolah: 1
+  - menjadi: 1
+  - oleh: 1
+  - pemrograman: 3
+  - program: 1
+  - python: 2
+  - salah: 1
+  - satu: 1
+  - seperti: 1
+  - set: 1
+  - sistem: 7
+  - sistematis: 1
+  - struktur: 3
+  - studi: 1
+  - teknologi: 1
+  - terstruktur: 1
+  - tuple: 1
+  - yang: 2
+
+(b) 10 kata paling sering muncul:
+  - sistem: 7
+  - informasi: 6
+  - data: 6
+  - dan: 5
+  - mahasiswa: 4
+  - pemrograman: 3
+  - struktur: 3
+  - adalah: 2
+  - yang: 2
+  - belajar: 2
+
+(c) Kata yang hanya muncul sekali (hapax legomena, 34 kata):
+  akurat, analisis, baik, basis, bidang, cepat, dalam, di, dictionary, efisien, harus, itu, karena, kuliah, lebih, list, mata, memahami, membantu, membuat, mempelajari, mengolah, menjadi, oleh, program, salah, satu, seperti, set, sistematis, studi, teknologi, terstruktur, tuple
+
+(d) Type-token ratio (kata unik / total kata): 0.5897

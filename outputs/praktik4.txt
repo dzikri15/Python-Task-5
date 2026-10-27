@@ -1,0 +1,26 @@
+
+Inventaris saat ini:
+  - Buku Tulis: Rp15000 x 40 = Rp600000
+  - Pulpen: Rp5000 x 120 = Rp600000
+  - Pensil: Rp4000 x 80 = Rp320000
+  - Penghapus: Rp3000 x 60 = Rp180000
+
+(a) Tambah barang baru:
+Barang 'Penggaris' ditambahkan: harga Rp10000, stok 50.
+
+(b) Update stok:
+Stok 'Pulpen' diupdate menjadi 150.
+
+(c) Cari barang dengan harga Rp4.000 - Rp12.000:
+  - Pulpen: Rp5000, stok 150
+  - Pensil: Rp4000, stok 80
+  - Penggaris: Rp10000, stok 50
+
+Inventaris akhir:
+  - Buku Tulis: Rp15000 x 40 = Rp600000
+  - Pulpen: Rp5000 x 150 = Rp750000
+  - Pensil: Rp4000 x 80 = Rp320000
+  - Penghapus: Rp3000 x 60 = Rp180000
+  - Penggaris: Rp10000 x 50 = Rp500000
+
+(d) Total nilai inventaris: Rp2350000

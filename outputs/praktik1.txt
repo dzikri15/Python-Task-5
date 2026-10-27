@@ -1,0 +1,7 @@
+Masukkan sebuah kalimat: 
+Kalimat: Belajar Python itu menyenangkan dan sangat bermanfaat
+(a) Jumlah kata                  : 7
+(b) Jumlah karakter (dgn spasi)  : 53
+    Jumlah karakter (tanpa spasi): 47
+(c) Kata terpanjang              : menyenangkan
+(d) Title case                  : Belajar Python Itu Menyenangkan Dan Sangat Bermanfaat
